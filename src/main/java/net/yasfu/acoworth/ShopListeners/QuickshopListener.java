@@ -11,7 +11,7 @@ import net.yasfu.acoworth.Storage;
 import net.yasfu.acoworth.AcoWorthPlugin;
 import org.maxgamer.quickshop.Shop.Shop;
 import org.maxgamer.quickshop.Shop.ShopType;
-import org.maxgamer.quickshop.Event.ShopSuccessPurchaseEvent;
+import org.maxgamer.quickshop.event.ShopSuccessPurchaseEvent;
 
 /*
 QuickShop Reremake
